@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: 👋 Hi there!
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+I'm [Cynthia](/about). This is my small blog where I share some tips and tricks around [Coolify](/tags/coolify), [esports broadcasting](/tags/esports-broadcasting), [vocal synthesizers](/tags/vocalsynth) and other tech stuff I find interesting.
